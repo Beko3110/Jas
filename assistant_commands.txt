@@ -1,0 +1,94 @@
+Jasper AI Assistant Commands
+
+1. Wake Word:
+   - "Hey Jasper"
+
+2. Basic Computer Control:
+   - "Open [application name]"
+   - "Close [application name]"
+   - "Type [text]"
+   - "Take a screenshot"
+   - "Click [left/right/double] at [x], [y]"
+   - "Move mouse to [x], [y]"
+   - "Press [key]"
+   - "Hotkey [key1] [key2] ..."
+   - "Activate window [window name]"
+   - "Minimize [window name]"
+   - "Maximize [window name]"
+   - "Scroll [up/down] [number] clicks"
+   - "Drag from [start_x], [start_y] to [end_x], [end_y]"
+
+3. Web Actions:
+   - "Search for [query]"
+   - "Open YouTube"
+   - "YouTube search [query]"
+
+4. File Management:
+   - "Create folder [folder name]"
+   - "Delete file [file name]"
+   - "List files"
+   - "Open a text file"
+
+5. System Information:
+   - "System info"
+   - "CPU usage"
+   - "Memory usage"
+   - "Disk usage"
+   - "List processes"
+   - "Kill process [process name]"
+   - "Network info"
+   - "Internet speed"
+
+6. Weather and News:
+   - "Weather in [city name]"
+   - "News headlines"
+
+7. Language and Text Processing:
+   - "Translate [text]"
+   - "OCR" (Optical Character Recognition)
+
+8. Image Processing:
+   - "Face detection"
+
+9. File Operations:
+   - "Compress files"
+   - "Extract files"
+
+10. Communication:
+    - "Send email"
+
+11. Productivity:
+    - "Set reminder"
+    - "Create todo"
+    - "Take notes"
+    - "Summarize text"
+
+12. Entertainment:
+    - "Play music [song name]"
+    - "Tell joke"
+    - "Write poem"
+
+13. Advanced Windows Actions:
+    - "Change wallpaper to [image path]"
+    - "Empty recycle bin"
+
+14. Stop Speaking:
+    - "Stop"
+
+15. Exit Commands:
+    - "Exit"
+    - "Quit"
+
+16. General Conversation:
+    - Ask any question or give any command
+    - Jasper will respond intelligently and may ask follow-up questions
+
+Usage Instructions:
+1. Start Jasper by running the Python script.
+2. Say "Hey Jasper" to wake up the assistant.
+3. When Jasper is listening, speak your command or ask a question.
+4. Jasper will process your input, respond accordingly, and may ask follow-up questions for clarification or to provide more detailed assistance.
+5. Continue the conversation naturally, providing additional information or new commands as needed.
+6. Say "Stop" at any time to interrupt Jasper's speech.
+
+Note: Jasper maintains conversation context and can engage in interactive and detailed discussions on various topics. The assistant uses natural language processing to understand and respond to your commands and questions.

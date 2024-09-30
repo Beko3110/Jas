@@ -1,0 +1,155 @@
+2024-09-30 11:54:09,763 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 11:54:09,764 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 11:54:19,519 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. How can I help you today?
+2024-09-30 12:06:16,569 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 12:06:16,571 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 12:06:27,605 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. How can I help you today?
+2024-09-30 12:06:41,155 - INFO - Jasper response: Opening text file
+2024-09-30 12:06:58,981 - INFO - Jasper response: Closing cmd
+2024-09-30 12:07:18,975 - INFO - Jasper response: Sure. Opening your desktop now.
+2024-09-30 12:07:34,611 - INFO - Jasper response: Sure. Minimizing all windows now.
+2024-09-30 12:08:12,720 - INFO - Jasper response: Sure. What would you like to search for on YouTube?
+2024-09-30 12:08:24,572 - INFO - Jasper response: Is this correct?
+2024-09-30 12:08:35,065 - INFO - Jasper response: I didn't understand. Please try again.
+2024-09-30 12:09:29,835 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 12:09:40,726 - INFO - Jasper response: Sure. Here are the top 5 results for "active youtube":
+1. Active - Official Music Video - Casting Crowns
+2. Active Lifestyle | YouTube Workout
+3. Active Melody - Girl Like You (Official Dance Video)
+4. Active Theory: Taylor Swift - Style (10 Minute Version) (Taylor's Version)
+5. Active Baby Exercises by Physical Therapist Luke
+2024-09-30 12:22:29,466 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 12:22:29,468 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 12:22:42,174 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. Say 'Hey Jasper' to wake me up.
+2024-09-30 12:24:08,365 - INFO - Jasper response: Opening text file
+2024-09-30 12:35:23,591 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 12:35:23,591 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 12:35:35,748 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. Say 'Hey Jasper' to wake me up.
+2024-09-30 12:36:30,819 - INFO - Jasper response: Opening youtube
+2024-09-30 12:36:42,002 - INFO - Jasper response: Opening text file
+2024-09-30 12:36:49,211 - INFO - Jasper response: Opening word
+2024-09-30 12:37:12,599 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 12:37:12,599 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 12:37:24,562 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. Say 'Hey Jasper' to wake me up.
+2024-09-30 12:41:19,135 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 12:41:19,137 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 12:41:29,197 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. Say 'Hey Jasper' to wake me up.
+2024-09-30 12:41:47,450 - INFO - Jasper response: Opening youtube
+2024-09-30 12:42:04,314 - INFO - Jasper response: Opening youtube
+2024-09-30 12:53:16,613 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 12:53:16,613 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 12:53:28,530 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. Say 'Hey Jasper' to wake me up.
+2024-09-30 12:58:35,966 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 12:58:35,966 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 12:58:46,365 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. Say 'Hey Jasper' to wake me up.
+2024-09-30 13:02:58,019 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 13:02:58,019 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 13:03:13,213 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. Say 'Hey Jasper' to wake me up.
+2024-09-30 13:04:46,383 - INFO - Jasper response: I'm awake! How can I help you?
+2024-09-30 13:05:02,742 - INFO - Jasper response: Please provide a command or question, or specify what you would like help with.
+2024-09-30 13:05:11,419 - INFO - Jasper response: Opening youtube
+2024-09-30 13:05:39,534 - INFO - Jasper response: What type of store pages are you referring to? Please provide more information.
+2024-09-30 13:05:47,756 - INFO - Jasper response: Opening open
+2024-09-30 13:05:52,715 - INFO - Jasper response: Is this correct?
+2024-09-30 13:06:04,689 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:06:08,670 - INFO - Jasper response: I didn't understand. Please try again.
+2024-09-30 13:06:27,505 - INFO - Jasper response: Closing youtube
+2024-09-30 13:07:02,101 - INFO - Jasper response: Closing youtube
+2024-09-30 13:07:09,113 - INFO - Jasper response: Closing chrome
+2024-09-30 13:07:17,362 - INFO - Jasper response: Opening vs code
+2024-09-30 13:07:28,216 - INFO - Jasper response: Certainly! What programming language would you like to code in?
+2024-09-30 13:07:40,154 - INFO - Jasper response: What do you want to build using React Native?
+2024-09-30 13:07:46,967 - INFO - Jasper response: Is this correct?
+2024-09-30 13:07:53,771 - INFO - Jasper response: What do you want to build using React Native?
+2024-09-30 13:07:57,381 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:08:04,291 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:08:06,283 - INFO - Jasper response: I didn't understand. Please try again.
+2024-09-30 13:08:15,762 - INFO - Jasper response: What are the core features you want in your e-commerce app?
+2024-09-30 13:08:24,791 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:08:31,528 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:08:37,316 - INFO - Jasper response: I didn't understand. Please try again.
+2024-09-30 13:08:48,319 - INFO - Jasper response: Closing code
+2024-09-30 13:08:57,411 - INFO - Jasper response: Closing vehicle
+2024-09-30 13:09:19,050 - INFO - Jasper response: Closing vs code
+2024-09-30 13:10:29,472 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:10:30,768 - INFO - Jasper response: 1. **Simplified registration process:** Make it easy for sellers to create accounts and start selling their products.
+2. **Bulk product import:** Allow sellers to easily upload multiple products at once, saving them time and effort.
+3. **Automated inventory updates:** Real-time inventory updates prevent overselling and ensure accurate stock levels.
+4. **Streamlined order fulfillment:** Provide sellers with tools to efficiently process and track orders, reducing the chance of errors.
+5. **Centralized customer communication:** Enable sellers to easily respond to customer inquiries and manage communication from a single platform.
+2024-09-30 13:10:41,006 - INFO - Jasper response: Opening chrome
+2024-09-30 13:11:06,863 - INFO - Jasper response: It was a pleasure assisting you today! I am always here if you need any further assistance. Goodbye for now!
+2024-09-30 13:12:43,999 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 13:12:43,999 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 13:12:59,636 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. Say 'Hey Jasper' to wake me up.
+2024-09-30 13:13:31,062 - INFO - Jasper response: I'm awake! How can I help you?
+2024-09-30 13:13:46,338 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:14:08,096 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:14:23,048 - INFO - Jasper response: 1. Compose a message: Create a new email, text message, or social media post
+2. Send a message: Send the most recently composed message
+3. Read a message: Read the most recently received message
+4. Search messages: Search for messages matching a specified query
+5. List messages: List all received messages
+6. Delete a message: Delete the most recently received message
+2024-09-30 13:21:04,376 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-09-30 13:21:04,376 - INFO - Using writeable comtypes cache directory: 'C:\Users\DELL\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2024-09-30 13:21:19,716 - INFO - Jasper response: Hello! I'm Jasper, your AI assistant. Say 'Hey Jasper' to wake me up.
+2024-09-30 13:23:04,774 - INFO - Jasper response: I'm awake! How can I help you?
+2024-09-30 13:23:23,426 - INFO - Jasper response: What do you need help with?
+2024-09-30 13:23:29,780 - INFO - Jasper response: What do you need help with?
+2024-09-30 13:23:33,729 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:23:36,058 - INFO - Jasper response: Is this correct?
+2024-09-30 13:23:36,540 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:23:41,241 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:23:41,253 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:23:43,304 - INFO - Jasper response: What do you need help with?
+2024-09-30 13:23:48,972 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:23:49,725 - INFO - Jasper response: Is this correct?
+2024-09-30 13:23:50,482 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:23:54,635 - INFO - User command: what do you need help with write a simple poem
+2024-09-30 13:23:55,199 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:23:55,909 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:23:57,265 - INFO - Jasper response: Is this correct?
+2024-09-30 13:24:08,164 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:24:08,254 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:24:08,694 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:24:11,086 - INFO - Jasper response: I didn't understand. Please try again.
+2024-09-30 13:24:11,086 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:24:15,650 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:24:15,786 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:24:15,786 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:24:16,587 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:24:16,587 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:24:21,406 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:24:21,406 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:24:27,901 - INFO - Jasper response: I didn't understand. Please try again.
+2024-09-30 13:24:27,901 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:24:37,074 - INFO - Jasper response: What do you call a belt made out of watches?
+A waist of time!
+2024-09-30 13:24:41,972 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:25:09,856 - INFO - Jasper response: Sure, here is a to-do list template:
+
+1.
+2.
+3.
+4.
+5.
+2024-09-30 13:25:09,856 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:25:23,126 - INFO - Jasper response: Opening text file
+2024-09-30 13:25:30,557 - INFO - Jasper response: Closing text file
+2024-09-30 13:26:09,054 - INFO - Jasper response: Sure, here are some tips on how to minimize a text file:
+
+- Use a text editor that supports compression, such as 7-Zip or WinRAR.
+- Compress the text file using a lossless compression algorithm, such as LZMA or PPMd.
+- Remove any unnecessary characters, such as spaces and newlines.
+- Use a text compression tool, such as gzip or bzip2.
+2024-09-30 13:26:09,054 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:26:38,498 - INFO - Jasper response: I apologize for my previous response. I am still under development and learning to be more helpful.
+
+Is there anything else I can help you with today?
+2024-09-30 13:26:46,600 - INFO - Jasper response: Is this correct?
+2024-09-30 13:26:49,219 - INFO - Jasper response: Opening notepad
+2024-09-30 13:26:55,176 - ERROR - Error in text-to-speech: run loop already started
+2024-09-30 13:26:58,660 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
+2024-09-30 13:27:01,389 - INFO - Jasper response: I didn't understand. Please try again.
+2024-09-30 13:27:01,389 - ERROR - Error in text-to-speech: 'NoneType' object has no attribute 'split'
