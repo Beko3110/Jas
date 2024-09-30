@@ -75,7 +75,7 @@ except ImportError as e:
     sys.exit(1)
 
 # Configure Gemini API
-genai.configure(api_key='AIzaSyA1tCSFkhZprzDCWRkUQAS2IkHGJh3tlus')
+genai.configure(api_key='')
 model = genai.GenerativeModel('gemini-pro')
 
 # Initialize text-to-speech
